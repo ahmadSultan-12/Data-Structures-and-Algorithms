@@ -1,9 +1,5 @@
 # Data-Structures-and-Algorithms
-EE 4th Semester Course
+EE 4th Semester Cours	
 
-
-Problem Statement:  (<--  )	
-			Contact Book Management Problem
-	Solution:
-			Hash Table with Separate Chaining
+Contact Book Management using Hash Table with Separate Chaining
 	
